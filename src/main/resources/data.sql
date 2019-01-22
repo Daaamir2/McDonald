@@ -1,0 +1,2 @@
+INSERT INTO products (id,name, price, description, img) VALUES
+(0,'Hamburger', 48, 'Hamburger','https://mcdonalds.ru/system/product_nutritional_values/images/000/000/011/big/hamburger_big.jpg?1495107960');
